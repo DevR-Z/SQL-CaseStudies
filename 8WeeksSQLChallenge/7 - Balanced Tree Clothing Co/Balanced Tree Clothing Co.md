@@ -1,5 +1,5 @@
 # <p align="center" style="margin-top: 0px;">Case Study #7: Balanced Tree Clothing Co
-## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/7%20-%20Balanced%20Tree%20Clothing%20Co/resources/c7.png?raw=true" alt="Image" width="400" height="420">
+## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/8WeeksSQLChallenge/7%20-%20Balanced%20Tree%20Clothing%20Co/resources/c7.png?raw=true" alt="Image" width="400" height="420">
 
 ## <p align="center">Notes
 - ##### Case study's data and questions were extracted from this link: [here](https://8weeksqlchallenge.com/case-study-7/). 

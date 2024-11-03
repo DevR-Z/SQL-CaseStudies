@@ -1,6 +1,5 @@
 # <p align="center" style="margin-top: 0px;">🍜 Case Study #1: Danny's Dinner 
-## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/1%20-%20Danny's%20Diner/resources/c1.png?raw=true" alt="image" width="400" heigth="420">
-
+## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/8WeeksSQLChallenge/1%20-%20Danny's%20Diner/resources/c1.png?raw=true" alt="image" width="400" heigth="420">
 ## <p align="center">Notes
 - ##### Case study's data and questions were extracted from this link: [here](https://8weeksqlchallenge.com/case-study-1/). 
 - ##### All questions were solved using MSSQL Server

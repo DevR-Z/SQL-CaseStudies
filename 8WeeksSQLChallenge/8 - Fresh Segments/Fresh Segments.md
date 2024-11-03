@@ -1,5 +1,5 @@
 # <p align="center" style="margin-top: 0px;">Case Study #8: Fresh Segments
-## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/8%20-%20Fresh%20Segments/resources/c8.png?raw=true" alt="Image" width="400" height="420">
+## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/8WeeksSQLChallenge/8%20-%20Fresh%20Segments/resources/c8.png?raw=true" alt="Image" width="400" height="420">
 
 ## <p align="center">Notes
 - ##### Case study's data and questions were extracted from this link: [here](https://8weeksqlchallenge.com/case-study-8/). 

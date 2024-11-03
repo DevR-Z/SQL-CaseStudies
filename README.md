@@ -14,3 +14,4 @@ Los casos de estudios tienen su respectivo derecho de autor, cada uno tiene su u
 6. [Clique Bait](https://github.com/DevR-Z/SQL-CaseStudies/blob/main/6%20-%20Clique%20Bait/Clique%20Bait.md)
 7. [Balanced Tree Clothing Co](https://github.com/DevR-Z/SQL-CaseStudies/blob/main/7%20-%20Balanced%20Tree%20Clothing%20Co/Balanced%20Tree%20Clothing%20Co.md)
 8. [Fresh Segments](https://github.com/DevR-Z/SQL-CaseStudies/blob/main/8%20-%20Fresh%20Segments/Fresh%20Segments.md)
+9. [Bike Rental Shop]()

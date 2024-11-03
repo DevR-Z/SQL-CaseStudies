@@ -1,5 +1,5 @@
 # <p align="center" style="margin-top: 0px;">🍜 Case Study #2: Pizza Runner 
-## <p align="center"><img src="" alt="Image" width="400" height="420">
+## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/2%20-%20Pizza%20Runner/resources/c2.png?raw=true" alt="Image" width="400" height="420">
 
 ## <p align="center">Notes
 - ##### Case study's data and questions were extracted from this link: [here](https://8weeksqlchallenge.com/case-study-2/). 

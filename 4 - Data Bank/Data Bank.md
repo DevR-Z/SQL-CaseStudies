@@ -1,5 +1,5 @@
 # <p align="center" style="margin-top: 0px;">Case Study #4: Data Bank
-## <p align="center"><img src="" alt="Image" width="400" height="420">
+## <p align="center"><img src="https://github.com/DevR-Z/SQL-CaseStudies/blob/main/4%20-%20Data%20Bank/resources/c4.png?raw=true" alt="Image" width="400" height="420">
 
 ## <p align="center">Notes
 - ##### Case study's data and questions were extracted from this link: [here](https://8weeksqlchallenge.com/case-study-4/). 
